@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cn&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=liu-cn" /> </div>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=liu-cn" /> </div>
 
 - :json-filter使用教程: www.bilibili.com/video/BV1s14y1G72v/
 - :json-filter微信交流群：(https://github.com/liu-cn/json-filter/issues/11)
