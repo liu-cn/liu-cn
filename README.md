@@ -1,8 +1,9 @@
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liu-cn&theme=github)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liu-cn&theme=github)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liu-cn&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liu-cn&theme=github)
-
+- :json-filter使用教程: www.bilibili.com/video/BV1s14y1G72v/
+- :json-filter微信交流群：(https://github.com/liu-cn/json-filter/issues/11)
 
 
 
