@@ -1,9 +1,10 @@
 # Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=liu-cn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
+<div display="flex">
+    <img flex="1" align="left" src="https://github-readme-stats.vercel.app/api?username=liu-cn&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cn&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
-
+    <img flex="1" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-cn&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+</div>
  <img src="https://visitor-badge.glitch.me/badge?page_id=liu-cn" /> </div>
 
 - :json-filter使用教程: www.bilibili.com/video/BV1s14y1G72v/
